@@ -14,6 +14,8 @@
   margin-left: auto;
   margin-right: auto;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .child > img {
   margin-left: auto;
